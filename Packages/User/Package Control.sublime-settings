@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"FakeDataGenerator"
 	],
 	"installed_packages":
 	[
@@ -17,7 +16,6 @@
 		"CSS3",
 		"DocBlockr",
 		"Emmet",
-		"FakeDataGenerator",
 		"FileDiffs",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
