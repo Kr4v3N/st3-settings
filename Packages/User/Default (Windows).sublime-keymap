@@ -1,0 +1,12 @@
+[
+
+    // File management
+    { "keys": ["ctrl+tab"], "command": "reindent" },
+    { "keys": ["alt+space"], "command": "code_intel_auto_complete" },
+    { "keys": ["ctrl+shift+r"], "command": "side_bar_rename" },
+
+    // Project management
+    { "keys": ["alt+right"], "command": "goto_python_definition" },
+    { "keys": ["alt+left"], "command": "back_to_python_definition" }
+
+]

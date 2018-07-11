@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"FakeDataGenerator"
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Color Highlighter",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"FakeDataGenerator",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Insert Nums",
+		"JavaScript Completions",
+		"jQuery",
+		"JSON Reindent",
+		"Language - French - Français",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"Print to HTML",
+		"Sass",
+		"SassBeautify",
+		"Sassy Comments",
+		"SideBarEnhancements",
+		"Sort Lines (Numerically)",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"Theme - Afterglow",
+		"TodoReview",
+		"Twig"
+	]
+}
