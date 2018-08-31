@@ -1,12 +1,11 @@
 {
-	"atomic_save": false,
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
-	"detect_slow_plugins": false,
+	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
 	"file_exclude_patterns":
 	[
@@ -40,7 +39,7 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 15,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -52,9 +51,11 @@
 	"smart_indent": true,
 	"status_bar_brighter": true,
 	"tab_size": 4,
-	"tabs_medium": true,
+	"tabs_small": true,
 	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"sidebar_size_14": true,
+    "save_on_focus_lost": true
 }
