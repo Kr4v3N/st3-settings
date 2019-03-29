@@ -11,22 +11,20 @@ This repo allows you to quickly install a fully configured Sublime Text 3 with:
  - custom preferences
  - custom builds
 
-Restore your backup:
---------------------
+Restore your backup very quickly:
+--------------------------------
 
-Windows 
--------
-
-    cd %APPDATA%/Sublime Text 3
+Linux
+-----
+    cd ~/.config/sublime-text-3
     git init
     git remote add origin https://github.com/Kr4v3N/st3-settings.git
     git fetch
     git checkout -t origin/master
-
-Linux
------
-
-    cd ~/.config/sublime-text-3
+    
+Windows 
+-------
+    cd %APPDATA%/Sublime Text 3
     git init
     git remote add origin https://github.com/Kr4v3N/st3-settings.git
     git fetch
@@ -34,7 +32,6 @@ Linux
 
 OS X
 ----
-
     cd ~/Library/Application Support/Sublime Text 3
     git init
     git remote add origin https://github.com/Kr4v3N/st3-settings.git
