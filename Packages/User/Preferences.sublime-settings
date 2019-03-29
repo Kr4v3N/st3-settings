@@ -58,5 +58,6 @@
 	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"copy_with_empty_selection": false,
 	"word_wrap": true
 }
