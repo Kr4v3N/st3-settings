@@ -11,7 +11,10 @@ This repo allows you to quickly install a fully configured Sublime Text 3 with:
  - custom preferences
  - custom builds
 
-Windows
+Restore your backup:
+--------------------
+
+Windows 
 -------
 
     cd %APPDATA%/Sublime Text 3
