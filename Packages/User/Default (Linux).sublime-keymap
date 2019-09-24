@@ -1,7 +1,4 @@
 [
-    // toggle_side_bar
-    { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
-
     // tout ré-indenter
     { "keys": ["ctrl+i"], "command": "reindent"},
 
