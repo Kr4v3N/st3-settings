@@ -4,7 +4,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
@@ -60,7 +60,7 @@
 		"OCaml",
 		"Rails",
 		"Ruby",
-		"Vintage"
+		"Vintage",
 	],
 	"installed_packages":
 	[
@@ -95,9 +95,9 @@
 	"swallow_startup_errors": true,
 	"tabs_label_not_italic": true,
 	"tabs_small": true,
-	"theme": "Monokai+.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"theme": "Afterglow-orange.sublime-theme",
 }
