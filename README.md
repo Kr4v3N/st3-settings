@@ -18,7 +18,7 @@ Linux
 -----
     cd ~/.config/sublime-text-3
     git init
-    git remote add origin https://github.com/Kr4v3N/st3-settings.git
+    git remote add origin git@github.com:Kr4v3N/st3-settings.git
     git fetch
     git checkout -t origin/master
     
@@ -26,7 +26,7 @@ Windows
 -------
     cd %APPDATA%/Sublime Text 3
     git init
-    git remote add origin https://github.com/Kr4v3N/st3-settings.git
+    git remote add origin git@github.com:Kr4v3N/st3-settings.git
     git fetch
     git checkout -t origin/master
 
@@ -34,6 +34,6 @@ OS X
 ----
     cd ~/Library/Application Support/Sublime Text 3
     git init
-    git remote add origin https://github.com/Kr4v3N/st3-settings.git
+    git remote add origin git@github.com:Kr4v3N/st3-settings.git
     git fetch
     git checkout -t origin/master

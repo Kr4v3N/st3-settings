@@ -4,7 +4,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
@@ -40,7 +40,7 @@
 	[
 		"no_round"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -48,6 +48,7 @@
 		"ActionScript",
 		"AppleScript",
 		"ASP",
+		"Csslisible",
 		"D",
 		"Diff",
 		"Erlang",
