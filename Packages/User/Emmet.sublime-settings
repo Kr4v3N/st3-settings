@@ -1,7 +1,4 @@
 {
-    "preferences": {
-        "sass.propertyEnd": ";",
-    },
-    "telemetry": true,
-    "uid": "5d35c831-1613-4baf-a939-9a524e342cf3",
+	"telemetry": true,
+	"uid": "1d907fc0-2732-413c-8e43-31e0741b03d6",
 }
