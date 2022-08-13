@@ -1,10 +1,12 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
 {
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
@@ -40,10 +42,10 @@
 	[
 		"no_round"
 	],
-	"font_size": 17,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
+		"ignored_packages":
 	[
 		"1337 Color Scheme",
 		"ActionScript",
@@ -84,10 +86,6 @@
 		"PHP-Twig",
 		"PHPIntel",
 		"Rails",
-		"Ruby",
-		"Sass",
-		"SassBeautify",
-		"Sassy Comments",
 		"SideBarEnhancements",
 		"Sort Lines (Numerically)",
 		"SqlBeautifier",
@@ -137,7 +135,8 @@
 	"tabs_small": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
-	"word_wrap": true,
-	"theme": "Afterglow-orange.sublime-theme",
+    "use_simple_full_screen": true,
+    "word_wrap": true,
+    "theme": "Alpenglow-orange.sublime-theme",
+    /*"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"*/
 }
