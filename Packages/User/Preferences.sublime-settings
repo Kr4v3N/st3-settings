@@ -6,7 +6,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme",
+	"color_scheme": "Monokai Pro.sublime-color-scheme",
 	"copy_with_empty_selection": false,
 	"detect_slow_plugins": true,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
@@ -139,4 +139,5 @@
     "word_wrap": true,
     "theme": "Alpenglow-orange.sublime-theme",
     /*"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"*/
+	"update_check": true,
 }
